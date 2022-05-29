@@ -19,7 +19,7 @@
 
 
  #### Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=blue-1ms)](https://github.com/blue-1ms)
+[![Stats](https://github-readme-stats.vercel.app/api?username=manar-abed)](https://github.com/blue-1ms)
 
 ### Connect with me
 🐦 [Behance](https://www.behance.net/manarabdalhdi) | 💼 [LinkedIn](https://www.linkedin.com/in/manar-abed/) | 📧 [Email](mailto:manarabed333@gmail.com)
